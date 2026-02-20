@@ -9,3 +9,4 @@ nbformat
 apyori
 streamlit>=1.23.0
 ipykernel
+flask

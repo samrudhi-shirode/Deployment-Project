@@ -10,3 +10,4 @@ apyori
 streamlit>=1.23.0
 ipykernel
 flask
+altair==4.2.2
